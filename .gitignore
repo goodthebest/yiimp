@@ -18,3 +18,4 @@ web/serverconfig.php
 web/assets/
 *.rej
 *.orig
+*.0
